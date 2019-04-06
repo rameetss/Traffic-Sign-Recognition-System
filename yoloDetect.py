@@ -1,5 +1,7 @@
 """
-TODO: Write your program header
+TSRS - Detect Road Signs with Live Video
+Rameet Sekhon - rameet.sekhon@uoit.net
+Thagshan Mohanarathnam
 """
 
 import numpy as np
